@@ -1,10 +1,10 @@
 # Albums
 Application have screen which displays albums list sorted by title and persisted for offline viewing.
-1. Code is full junit tested using Mockito tool 
-2. For offline viewing data is store in shared preference by gson parsing
+1. Mockito tool is used for junit code coverage.
+2. For offline viewing data is store in shared preference using gson parsing and store objects as string.
 
 # Instructions
-Need network for first time
+Need network for first time to get and save data.
 
 # Environment Configuration #JDK
 1. Install JDK 1.8 i586 update 101, for example in C:\Java\jdk1.8.0_101;
@@ -23,7 +23,7 @@ Install Android Studio
 
 # PROJECT SETUP
 1. Get clean copy of the project repository to some directory (suppose “gitProjects”)
-git clone https://github.com/NeuroOne/SMPlusPatient.git
+git clone https://github.com/mamta-lawrence/JP_Morgan_Code.git
 Note: cloning is recommended but is not required
 
 2. In Android Studio 2.1.2 open project located in gitProjects\Albums
