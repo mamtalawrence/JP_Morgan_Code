@@ -43,8 +43,8 @@ public class AlbumsDisplayPresenter {
             mAlbumsDisplayView.showProgressBar();
             performNetworkTask();
         } else {
-            //TODO need to add retry after network available
-            mAlbumsDisplayView.showToast(mContext.getResources().getString(R.string.network_alert));
+            //TODO: need to add retry after network available
+            mAlbumsDisplayView.showToast(mContext.getString(R.string.network_alert));
         }
     }
 
