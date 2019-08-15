@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Albums</string>
+    <string name="warning_alert">Something went wrong...Please try later!</string>
+    <string name="album_name_txt"> Title :&#160;</string>
+    <string name="network_alert">Please check network connection and try again!!</string>
+    <string name="loading_indicator">Loading....</string>
+    <string name="user_id">\n User ID :&#160;</string>
+    <string name="id_txt">\n ID :&#160;</string>
+</resources>
